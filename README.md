@@ -15,4 +15,7 @@ The documentation should serve as a description of your API's inputs and outputs
 - Examples.
 
 
+Use
+Enter the project folder and run the yarn command. With the dependencies installed, I ran yarn dev to upload the server.
+
 
